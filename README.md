@@ -29,6 +29,7 @@ Result: Slow response time, incomplete visibility, and unnecessary losses.
 Oru Agent acts as an autonomous protocol intelligence assistant.
 
 It continuously:
+
 	•	Monitors protocol metrics across chains
 	•	Detects anomalies
 	•	Generates insights
@@ -36,7 +37,7 @@ It continuously:
 	•	Interacts with teams via a natural-language AI assistant
 	•	Provides daily & weekly reports
 	•	Integrates directly with Discord, Slack, Telegram, and Email
-
+	
 A single interface replaces 5+ tools used today.
 
 ⸻
@@ -53,6 +54,7 @@ https://ebony-swept-75889736.figma.site
 Dashboard
 
 Key metrics with real-time visibility:
+
 	•	TVL
 	•	24h volume
 	•	Transaction count
@@ -63,6 +65,7 @@ Key metrics with real-time visibility:
 Alerts
 
 Centralized anomaly detection:
+
 	•	TVL drops
 	•	High gas fees
 	•	Suspicious activity
@@ -74,6 +77,7 @@ Centralized anomaly detection:
 Insights
 
 AI-generated analysis & recommendations:
+
 	•	Daily summaries
 	•	Weekly reports
 	•	Key metric trends (TVL, volume, fees, activity)
@@ -83,6 +87,7 @@ AI-generated analysis & recommendations:
 Automations
 
 Rules engine (IF / THEN):
+
 	•	IF TVL drops by X% → THEN alert Discord
 	•	IF Time = 09:00 UTC → THEN generate daily summary
 	•	IF Volume decreases → THEN generate performance report
@@ -91,6 +96,7 @@ Rules engine (IF / THEN):
 Support — Protocol AI Agent
 
 Natural language interface:
+
 	•	Ask: “Explain last week’s performance.”
 	•	Agent responds with contextual insights
 	•	Offers detailed report generation
@@ -99,6 +105,7 @@ Natural language interface:
 Settings
 
 Full customization:
+
 	•	Data sources (Hedera, EVM, APIs, CSV uploads)
 	•	Sensitivity sliders
 	•	Autonomous actions toggle
@@ -152,26 +159,32 @@ You can add them later using this format:
 ⸻
 
 6. Tech Stack (Prototype Stage)
+
 	•	Frontend:
 Figma prototype (production UI planned in React + Tailwind + Shadcn)
+
 	•	AI Layer:
 Autonomous agent powered by LLMs (planned: inference on-chain data → embeddings → agent loop)
+
 	•	Data Sources:
 Hedera Network
 EVM Chains
 External APIs
 CSV manual uploads
+
 	•	Integrations:
 Discord
 Slack
 Telegram
 Email
+
 	•	Future Dev:
 Realtime data ingestion + anomaly detection engine
 
 ⸻
 
 7. How It Works (Conceptual Architecture)
+
 	1.	Data ingestion: On-chain + off-chain data pulled from multiple sources
 	2.	Processing: Metric normalization, anomaly detection, trend analysis
 	3.	AI Engine:
@@ -187,6 +200,7 @@ Realtime data ingestion + anomaly detection engine
 8. Why Oru Agent Is Valuable
 
 For protocol teams:
+
 	•	Faster detection of risks
 	•	Improved decision-making
 	•	Consolidated & clean intelligence
@@ -194,6 +208,7 @@ For protocol teams:
 	•	A proactive system instead of reactive dashboards
 
 For ecosystems:
+
 	•	Better monitoring
 	•	More stable protocols
 	•	More data-driven builders
@@ -227,21 +242,25 @@ This is a scalable product.
 10. Future Roadmap
 
 Phase 1 — Core System (December 2024 – Feb 2025)
+
 	•	Real data integration (Hedera + EVM)
 	•	Alert engine
 	•	Dashboard metrics retrieval
 
 Phase 2 — AI Intelligence (March – June 2025)
+
 	•	Insight generation
 	•	Pattern detection
 	•	Natural language query engine
 
 Phase 3 — Automations (July – Sept 2025)
+
 	•	Full IF/THEN system
 	•	Automated actions
 	•	Team notification framework
 
 Phase 4 — Expansion (Oct – Dec 2025)
+
 	•	Multi-protocol scalability
 	•	Marketplace for automation templates
 	•	Enterprise onboarding
@@ -250,6 +269,7 @@ Phase 4 — Expansion (Oct – Dec 2025)
 2026 Goal
 
 Revenue target: $500k ARR through:
+
 	•	SaaS (API + dashboard)
 	•	Automation marketplace
 	•	Enterprise integrations
