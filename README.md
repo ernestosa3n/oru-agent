@@ -114,22 +114,40 @@ You can add them later using this format:
 
 ### Dashboard
 ![Dashboard](./screenshots/[dashboard.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.55.47.png)
+
 (./screenshots/[dashboard.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.55.53.png)
 
 ### Alerts
 ![Alerts](./screenshots/[alerts.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.00.png)
 
+./screenshots/[alerts.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.04.png)
+
 ### Insights
-![Insights](./screenshots/insights.png)
+![Insights](./screenshots/[insights.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.11.png)
+
+(./screenshots/[insights.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.20.png)
+
+(./screenshots/[insights.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.23.png)
 
 ### Automations
-![Automations](./screenshots/automations.png)
+![Automations](./screenshots/[automations.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.30.png)
+
+(./screenshots/[automations.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.35.png)
 
 ### Support – AI Agent
-![AI Agent](./screenshots/ai-agent.png)
+![AI Agent](./screenshots/[ai-agent.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.53.png)
+
+(./screenshots/[ai-agent.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.56.58.png)
 
 ### Settings
-![Settings](./screenshots/settings.png)
+![Settings](./screenshots/[settings.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.57.02.png)
+
+(./screenshots/[settings.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.57.07.png)
+
+(./screenshots/[settings.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.57.11.png)
+
+(./screenshots/[settings.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.57.14.png)
+
 ⸻
 
 6. Tech Stack (Prototype Stage)
