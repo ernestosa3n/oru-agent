@@ -265,5 +265,5 @@ Contributions, ideas, and collaboration are welcome.
 
 12. License
 
-MIT License (recommended).
-Or choose the one you want.
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
