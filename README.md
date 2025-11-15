@@ -111,13 +111,24 @@ Full customization:
 
 You can add them later using this format:
 ## Screenshots
-![Dashboard](./screenshots/dashboard.png)
-![Alerts](./screenshots/alerts.png)
-![Insights](./screenshots/insights.png)
-![Automations](./screenshots/automations.png)
-![Support](./screenshots/support.png)
-![Settings](./screenshots/settings.png)
 
+### Dashboard
+![Dashboard](./screenshots/[dashboard.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.55.47.png))
+
+### Alerts
+![Alerts](./screenshots/alerts.png)
+
+### Insights
+![Insights](./screenshots/insights.png)
+
+### Automations
+![Automations](./screenshots/automations.png)
+
+### Support – AI Agent
+![AI Agent](./screenshots/ai-agent.png)
+
+### Settings
+![Settings](./screenshots/settings.png)
 ⸻
 
 6. Tech Stack (Prototype Stage)
