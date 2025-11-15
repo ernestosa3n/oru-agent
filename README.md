@@ -14,6 +14,7 @@ Built for Hedera, EVM chains, and future multi-chain expansion.
 Protocol teams operate in a fragmented environment across explorers, dashboards, alert bots, and manual reports.
 
 Challenges:
+
 	•	Important events are missed due to dashboard overload.
 	•	On-chain data is difficult to transform into actionable insights.
 	•	Alerts are reactive, not predictive.
