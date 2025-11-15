@@ -113,7 +113,7 @@ You can add them later using this format:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/[dashboard.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.55.47.png))
+![Dashboard](./screenshots/[dashboard.png](https://raw.githubusercontent.com/ernestosa3n/oru-agent/refs/heads/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202025-11-15%20a%CC%80%2014.55.47.png)
 
 ### Alerts
 ![Alerts](./screenshots/alerts.png)
