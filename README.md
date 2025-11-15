@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./media/cover.png" width="100%" />
+</p>
 Oru Agent – Autonomous Protocol Intelligence
 
 Oru Agent is an AI-powered autonomous intelligence layer for blockchain protocols.
