@@ -5,7 +5,7 @@ This document describes the structure, navigation, and main interaction flows of
 ## 🔗 Figma Prototype Link
 Interactive Prototype:  
 https://www.figma.com/proto/XXXXXXX  
-(https://civil-primer-36971497.figma.site/)
+https://civil-primer-36971497.figma.site/
 
 ---
 
