@@ -103,8 +103,7 @@ Detailed architecture explanation is available in `/docs/architecture.md`.
 /assets
     pitch_deck.pdf
     demo_video.mp4
-    figma_prototype_link.txt
-    /screenshots
+    prototype.md
 
 LICENSE
 README.md
