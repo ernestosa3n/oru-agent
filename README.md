@@ -92,7 +92,6 @@ Detailed architecture explanation is available in `/docs/architecture.md`.
 /infra
     hedera_config.md    → Hedera-specific setup notes
     deployment_notes.md → How the agent would be deployed (containers)
-    contract_placeholder.sol → Optional ERC-8004 awareness file
 
 /docs
     architecture.md
