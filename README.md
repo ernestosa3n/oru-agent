@@ -98,9 +98,8 @@ Detailed architecture explanation is available in `/docs/architecture.md`.
     architecture.md
     intelligence_loop.md
     memory_layer.md
-    design_decisions.md
 
-/assets
+/delivrable
     pitch_deck.pdf
     demo_video.mp4
     prototype.md
