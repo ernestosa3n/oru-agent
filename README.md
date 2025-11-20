@@ -57,46 +57,45 @@ Oru performs four continuous intelligence functions:
 
 ## **🧱 System Architecture**
 Data Sources (Mirror Node, APIs, Off-chain)
-│
-▼
+        │
+        ▼
 Ingestion Layer (/src/ingestion)
-│ normalized data
-▼
+        │ normalized data
+        ▼
 Intelligence Loop (/src/intelligence)
-│ insights + reasoning + logs
-▼
+        │ insights + reasoning + logs
+        ▼
 Memory Layer (/src/memory)
-│ reinforced patterns
-▼
+        │ reinforced patterns
+        ▼
 Output Layer (/src/outputs)
-│
-▼
+        │
+        ▼
 UI / API / Export (Figma Prototype)
-
 Detailed explanations available in `/docs/architecture.md`.
 
 ---
 
 ## **📂 Repository Structure**
 /src
-/ingestion          → Hedera ingestion mock modules
-/intelligence       → Core intelligence loop & pattern logic
-/memory             → Memory layer (insight history, patterns)
-/outputs            → Insight formatting, alert builders
+    /ingestion
+    /intelligence
+    /memory
+    /outputs
 
 /infra
-hedera_config.md    → Hedera SDK & environment notes
-deployment_notes.md → Deployment model (containers, services)
+    hedera_config.md
+    deployment_notes.md
 
 /docs
-architecture.md
-intelligence_loop.md
-memory_layer.md
+    architecture.md
+    intelligence_loop.md
+    memory_layer.md
 
 /deliverables
-pitch_deck.pdf
-demo_video.mp4
-prototype.md
+    pitch_deck.pdf
+    demo_video.mp4
+    prototype.md
 
 LICENSE
 README.md
