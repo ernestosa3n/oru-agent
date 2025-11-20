@@ -13,10 +13,10 @@ Although the implementation is partially simulated, the system architecture, int
 
 | Deliverable | Link |
 |------------|------|
-| 🧩 **Interactive Figma Prototype** | `/deliverables/prototype.md` |
-| 🎬 **Demo Video** | `/deliverables/demo_video.mp4` |
-| 📑 **Pitch Deck (PDF)** | `/deliverables/pitch_deck.pdf` |
-| 📘 **Architecture Docs** | `/docs/` |
+| 🧩 **Interactive Figma Prototype** | [`/deliverables/prototype.md`](deliverables/prototype.md) |
+| 🎬 **Demo Video** | [`/deliverables/demo_video.mp4`](deliverables/demo_video.mp4) |
+| 📑 **Pitch Deck (PDF)** | [`/deliverables/pitch_deck.pdf`](deliverables/pitch_deck.pdf) |
+| 📘 **Architecture Docs** | [`/docs/`](docs/) |
 
 All judging material is stored inside the repository.  
 No external navigation required.
@@ -56,6 +56,8 @@ Oru performs four continuous intelligence functions:
 ---
 
 ## **🧱 System Architecture**
+
+```
 Data Sources (Mirror Node, APIs, Off-chain)
         │
         ▼
@@ -72,20 +74,24 @@ Output Layer (/src/outputs)
         │
         ▼
 UI / API / Export (Figma Prototype)
+```
+
 Detailed explanations available in `/docs/architecture.md`.
 
 ---
 
 ## **📂 Repository Structure**
+
+```
 /src
-    /ingestion
-    /intelligence
-    /memory
-    /outputs
+    /ingestion          → Hedera ingestion mock modules
+    /intelligence       → Core intelligence loop & pattern logic
+    /memory             → Memory layer (insight history, patterns)
+    /outputs            → Insight formatting, alert builders
 
 /infra
-    hedera_config.md
-    deployment_notes.md
+    hedera_config.md    → Hedera SDK & environment notes
+    deployment_notes.md → Deployment model (containers, services)
 
 /docs
     architecture.md
@@ -99,6 +105,8 @@ Detailed explanations available in `/docs/architecture.md`.
 
 LICENSE
 README.md
+```
+
 ---
 
 ## **🚀 Running the Prototype Code**
@@ -106,10 +114,14 @@ README.md
 This project includes a minimal runnable skeleton to illustrate the agent’s internal flow.
 
 ### **1. Install dependencies**
+```
 pip install -r requirements.txt
+```
 
 ### **2. Run an intelligence loop cycle**
+```
 python src/demo_run.py
+```
 
 ### **3. Explore documentation**
 See `/docs/` for architecture and module explanations.
