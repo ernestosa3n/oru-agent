@@ -13,10 +13,9 @@ This repository showcases the agent’s architecture, intelligence loop, memory 
 
 All assets for judging are centralized here:
 
-- **Pitch Deck (PDF):** `/assets/pitch_deck.pdf`
-- **Demo Video:** `/assets/demo_video.mp4`
-- **Figma Prototype:** `/assets/figma_prototype_link.txt`
-- **Screenshots:** `/assets/screenshots/`
+- **Pitch Deck (PDF):** `/delivrable/pitch_deck.pdf`
+- **Demo Video:** `/delivrable/demo_video.mp4`
+- **Figma Prototype:** `/delivrable/prototype.md`
 - **Architecture Docs:** `/docs/`
 
 No external navigation required — everything is inside the repository.
