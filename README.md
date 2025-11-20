@@ -13,9 +13,9 @@ Although the implementation is partially simulated, the system architecture, int
 
 | Deliverable | Link |
 |------------|------|
-| 🧩 **Interactive Figma Prototype** | [`/deliverables/prototype.md`](deliverables/prototype.md) |
-| 🎬 **Demo Video** | [`/deliverables/demo_video.mp4`](deliverables/demo_video.mp4) |
-| 📑 **Pitch Deck (PDF)** | [`/deliverables/pitch_deck.pdf`](deliverables/pitch_deck.pdf) |
+| 🧩 **Interactive Figma Prototype** | [`/deliverable/prototype.md`](deliverable/prototype.md) |
+| 🎬 **Demo Video** | [`/deliverable/demo_video.mp4`](deliverable/demo_video.mp4) |
+| 📑 **Pitch Deck (PDF)** | [`/deliverable/pitch_deck.pdf`](deliverable/pitch_deck.pdf) |
 | 📘 **Architecture Docs** | [`/docs/`](docs/) |
 
 All judging material is stored inside the repository.  
