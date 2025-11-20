@@ -56,21 +56,27 @@ Oru performs four continuous intelligence functions:
 ---
 
 ## **🧱 System Architecture**
+
 Data Sources (Mirror Node, APIs, Off-chain)
 │
 ▼
+
 Ingestion Layer (/src/ingestion)
 │ normalized data
 ▼
+
 Intelligence Loop (/src/intelligence)
 │ insights + reasoning + logs
 ▼
+
 Memory Layer (/src/memory)
 │ reinforced patterns
 ▼
+
 Output Layer (/src/outputs)
 │
 ▼
+
 UI / API / Export (Figma Prototype)
 
 Detailed explanations available in `/docs/architecture.md`.
