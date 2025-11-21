@@ -16,7 +16,7 @@ Although the implementation is partially simulated, the system architecture, int
 | 🧩 **Interactive Figma Prototype** | [`/deliverable/prototype.md`](deliverable/prototype.md) |
 | 🎬 **Demo Video:** | [`deliverable/Demo%20ORU.mp4`](deliverable/Demo%20ORU.mp4)
 | 📑 **Pitch Deck (PDF)** | [`/deliverable/pitch_deck.pdf`](deliverable/pitch_deck.pdf) |
-| 📘 **Architecture Docs** | [`/docs/`](docs/) |
+| 📘 **Architecture Docs** | [`/docs/`](docs%20/architecture.md/) |
 
 All judging material is stored inside the repository.  
 No external navigation required.
